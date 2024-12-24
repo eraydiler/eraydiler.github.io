@@ -42,29 +42,3 @@ defaultContentLanguage = "en"
     identifier = "blog"
     name       = "blog"
     url        = "/posts"
-
-# [languages]
-#  [languages.en]
-#    title = "I'm so glad you're here 👋🏼"
-#    keywords = ""
-#    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-#    readOtherPosts = "Read other posts"
-
-#  [languages.en.params]
-#    subtitle  = "Let's make this a better world!"
-
-#    [languages.en.params.logo]
-#      logoText = "git checkout main"
-#      logoHomeLink = "/"
-#    # or
-#    #
-#    # path = "/img/your-example-logo.svg"
-#    # alt = "Your example logo alt text"
-
-#  # And you can even create generic menu
-#  [[menu.main]]
-#    identifier = "blog"
-#    name       = "blog"
-#    url        = "/posts"
-
-# multilingual = false
