@@ -55,3 +55,5 @@ pagerSize     = 10
     identifier = "blog"
     name       = "blog"
     url        = "/posts"
+
+multilingual = false
