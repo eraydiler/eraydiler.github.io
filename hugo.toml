@@ -20,7 +20,7 @@ pagerSize     = 10
   enableSharingButtons = true
   
   # Show a global language switcher in the navigation bar
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Metadata mostly used in document's head
   description = "My new homepage or blog"
@@ -32,28 +32,39 @@ pagerSize     = 10
     tag      = "tags"
     series   = "series"
 
-[languages]
-  [languages.en]
-    title = "I'm so glad you're here 👋🏼"
-    keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
+defaultContentLanguage = "en"
 
-  [languages.en.params]
-    subtitle  = "Let's make this a better world!"
+[params.logo]
+  logoText = "git checkout main"
+  logoHomeLink = "/"
 
-    [languages.en.params.logo]
-      logoText = "git checkout main"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
-
-  # And you can even create generic menu
-  [[menu.main]]
+[[menu.main]]
     identifier = "blog"
     name       = "blog"
     url        = "/posts"
 
-multilingual = false
+# [languages]
+#  [languages.en]
+#    title = "I'm so glad you're here 👋🏼"
+#    keywords = ""
+#    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+#    readOtherPosts = "Read other posts"
+
+#  [languages.en.params]
+#    subtitle  = "Let's make this a better world!"
+
+#    [languages.en.params.logo]
+#      logoText = "git checkout main"
+#      logoHomeLink = "/"
+#    # or
+#    #
+#    # path = "/img/your-example-logo.svg"
+#    # alt = "Your example logo alt text"
+
+#  # And you can even create generic menu
+#  [[menu.main]]
+#    identifier = "blog"
+#    name       = "blog"
+#    url        = "/posts"
+
+# multilingual = false
