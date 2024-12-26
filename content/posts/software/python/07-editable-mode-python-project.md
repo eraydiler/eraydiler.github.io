@@ -22,8 +22,6 @@ Let’s get started!
 To enable editable installation, you first need a `setup.py` file in the project’s root folder. Here’s a simple example:
 
 ```python
-python
-Copy code
 from setuptools import setup, find_packages
 
 setup(
@@ -46,9 +44,7 @@ setup(
 
 Using this `setup.py` file works well if your project follows a structure like this:
 
-```arduino
-arduino
-Copy code
+```python
 project_root/
 │
 ├── src/
@@ -67,10 +63,7 @@ This keeps code in `src/` and helps manage larger projects more easily.
 After creating `setup.py`, install your project in editable mode:
 
 ```bash
-bash
-Copy code
 pip install -e .
-
 ```
 
 ### How Editable Mode Helps
@@ -82,10 +75,7 @@ The `-e` flag (for *editable*) installs the project in a way that allows you 
 Once the project is in editable mode, importing modules is much easier. For example, if there’s a module in `src/api`, you can now import it directly:
 
 ```python
-python
-Copy code
 from api import some_module
-
 ```
 
 Editable mode removes the need to set `PYTHONPATH` or use `sys.path` tweaks—the modules are accessible right after installation.

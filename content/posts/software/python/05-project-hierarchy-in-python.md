@@ -120,7 +120,6 @@ Organizing tests in a structure that mirrors your source code makes it easier to
 ### **Example Test Structure:**
 
 ```markdown
-markdownCopy code
 tests/
 │
 ├── __init__.py
