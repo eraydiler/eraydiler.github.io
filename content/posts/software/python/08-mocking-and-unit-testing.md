@@ -1,7 +1,8 @@
 +++
 title = 'Mocking and Unit Testing in Python: A Trading App Example'
-date = 2024-12-16T07:07:07+01:00
-draft = true
+date  = 2024-11-11T08:00:00+03:00
+tags  = ["python", "unit testing", "mocking", "trading app", "unittest"]
+draft = false
 +++
 
 I’ve always been an advocate for writing tests. After all, who would want to drive a car that hasn’t undergone testing? In the software industry, especially in startups, testing often takes a backseat. The main reason is typically a lack of time. Writing tests is a task on its own, and limited time is usually prioritized for development instead.

@@ -1,9 +1,9 @@
 +++
 title = 'How to Set Environment Variables in macOS to Securely Store API Keys'
-date = 2024-11-11T07:07:07+01:00
-draft = true
+date  = 2024-11-06T11:55:00+03:00
+tags  = ["macOS", "environment variables", "security"]
+draft = false
 +++
-
 
 When building apps that connect to third-party services, you often need API keys for authentication. Hardcoding these keys directly in your code isn’t safe, as it can lead to accidental exposure. A more secure approach is to store them as environment variables, keeping sensitive information out of your codebase.
 

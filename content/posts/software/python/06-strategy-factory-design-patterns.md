@@ -1,7 +1,8 @@
 +++
 title = 'Design Patterns in Action: Strategy and Factory in a Trading App'
-date = 2024-12-02T07:07:07+01:00
-draft = true
+date  = 2024-11-07T09:30:00+03:00
+tags  = ["python", "design patterns", "strategy pattern", "factory pattern", "trading app"]
+draft = false
 +++
 
 Design patterns are reusable solutions to common problems in software development. In this post, I’ll explain how I used the **Strategy** and **Factory** patterns in my trading server to easily switch between broker APIs like Alpaca and BingX, and how adding new brokers is made simple.

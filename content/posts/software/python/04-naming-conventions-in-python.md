@@ -1,9 +1,9 @@
 +++
 title = 'Understanding Naming Conventions in Python'
-date = 2024-11-18T07:07:07+01:00
-draft = true
+date  = 2024-11-07T07:07:44+03:00
+tags  = ["python", "naming conventions", "pep 8", "best practices"]
+draft = false
 +++
-
 
 If you're an iOS developer like me, you're probably used to CamelCase conventions from Objective-C and Swift, where even functions and variables follow this style. Switching to Python, you’ll find that snake_case is preferred for many elements, such as functions and variables, while CamelCase remains for class names. Adjusting to these conventions can feel a bit different, but embracing Python's style will make your code easier for others to read and more aligned with community standards.
 

@@ -1,9 +1,9 @@
 +++
 title = 'Organizing Project Hierarchy in Python: Best Practices and Tips'
-date = 2024-11-25T07:07:07+01:00
-draft = true
+date  = 2024-11-07T08:45:00+03:00
+tags  = ["python", "project structure", "best practices", "file hierarchy"]
+draft = false
 +++
-
 
 When developing a Python project as the codebase gets bigger you may need some organization on the file hierarchy. A well-structured project not only makes your codebase more maintainable but also helps in scalability and collaboration. Whether you're working solo or as part of a team, adopting a clear and logical project structure will add to the project’s success.
 

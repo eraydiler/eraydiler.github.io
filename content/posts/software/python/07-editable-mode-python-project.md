@@ -1,7 +1,8 @@
 +++
 title = 'Installing Your Python Project in Editable Mode with a Virtual Environment'
-date = 2024-12-09T07:07:07+01:00
-draft = true
+date  = 2024-11-11T07:21:00+03:00
+tags  = ["python", "virtual environment", "editable mode", "setup.py", "project setup"]
+draft = false
 +++
 
 When working on Python projects, managing dependencies and setting up the project structure right from the start saves a lot of trouble—especially with import errors. One of the best ways to handle this is by installing your project in *editable mode* within a virtual environment. This way, you avoid hardcoded paths and make development simpler.

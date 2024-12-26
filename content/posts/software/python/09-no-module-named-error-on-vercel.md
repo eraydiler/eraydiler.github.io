@@ -1,7 +1,8 @@
 +++
-title = 'Solving the "No Module Named" Error on Vercel: My 2-Day Journey'
-date = 2024-12-23T07:07:07+01:00
-draft = true
+title = 'Solving the "No Module Named" Error on Vercel'
+date  = 2024-12-12T05:03:00+03:00
+tags  = ["python", "vercel", "deployment", "no module named", "error", "debugging"]
+draft = false
 +++
 
 In this post, I’ll walk you through an issue I faced after restructuring my Python project and deploying it to Vercel. What seemed like a straightforward deployment turned into a frustrating hunt for a missing module. After two days of debugging and experimenting, I finally solved the issue—and here’s how you can too.

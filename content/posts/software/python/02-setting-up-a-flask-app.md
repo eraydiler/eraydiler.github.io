@@ -1,7 +1,8 @@
 +++
 title = 'Setting Up A Flask App With A Virtual Environment'
-date = 2024-11-04T07:07:07+01:00
-draft = true
+date  = 2024-11-05T10:39:00+03:00
+tags  = ["python", "flask", "virtual environment"]
+draft = false
 +++
 
 Flask is a lightweight and powerful web framework for Python, making it a popular choice for web development. Virtual environments are crucial for Python projects because they allow you to manage dependencies separately for each project, avoiding conflicts. In this post, I'll walk you through setting up a Flask app with a virtual environment from scratch.
