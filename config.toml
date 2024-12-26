@@ -55,25 +55,26 @@ defaultContentLanguage = "en"
   # Addon: Social icons
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   #
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:eray.diler@gmail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://github.com/eraydiler"
 
   [[params.social]]
     name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    url  = "https://stackoverflow.com/users/14178169/eray-diler"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/eray-diler/"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/eray_diler"
 
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
@@ -87,5 +88,5 @@ defaultContentLanguage = "en"
     topText = []
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Eray Diler</a>"
+      "Made with &#10084; by <a href=\"https://github.com/eraydiler\">Eray Diler</a>"
     ]
