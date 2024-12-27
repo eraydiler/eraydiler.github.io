@@ -1,6 +1,6 @@
 baseURL = 'https://eraydiler.github.io/'
 languageCode = 'en-us'
-title = "I'm so glad you're here 👋🏼"
+title = "Eray Diler"
 theme = 'hello-friend-ng'
 pagerSize     = 10
 
@@ -13,7 +13,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Let's make this a better world!"
+  # homeSubtitle = "Let's make this a better world!"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -88,7 +88,7 @@ defaultContentLanguage = "en"
     topText = []
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/eraydiler\">Eray Diler</a>"
+#      "Made with &#10084; by <a href=\"https://github.com/eraydiler\">Eray Diler</a>"
     ]
 
 [[module.mounts]]
