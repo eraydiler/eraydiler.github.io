@@ -48,15 +48,15 @@ You can create a virtual environment either through the terminal or VSCode. When
 
 Open the Command Palette ( ⇧⌘P ), search for the **Python: Create Environment** command, and select it.
 
-![Screenshot 2024-11-05 at 19.05.39.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f9700ee2-6d01-41ea-b9eb-0022c43ac751/d9bd1818-9821-498a-b950-02bcf726a102/Screenshot_2024-11-05_at_19.05.39.png)
+![screenshot_01](../screenshot_01.webp)
 
 Select Venv,
 
-![create_environment_dropdown.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f9700ee2-6d01-41ea-b9eb-0022c43ac751/37859485-492d-4477-8e69-ef2304dc6e8a/create_environment_dropdown.png)
+![screenshot_02](../screenshot_02.webp)
 
 And you will be presented a list of interpreters that can be used as a base for the new virtual environment. 
 
-![Screenshot 2024-11-05 at 19.07.51.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f9700ee2-6d01-41ea-b9eb-0022c43ac751/33535cbf-fdfa-4e99-beda-d9e71c86da86/Screenshot_2024-11-05_at_19.07.51.png)
+![screenshot_03](../screenshot_03.webp)
 
 ### [In the Terminal](https://code.visualstudio.com/docs/python/environments#_create-a-virtual-environment-in-the-terminal)
 
@@ -94,11 +94,11 @@ To start using your virtual environment, you need to activate it. The activation
 
 Once activated, you'll notice that your terminal prompt is prefixed with `(venv)`, indicating that your virtual environment is active.
 
-![Screenshot 2024-11-05 at 19.10.26.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f9700ee2-6d01-41ea-b9eb-0022c43ac751/72979e29-d128-4370-ada9-3915974985a4/Screenshot_2024-11-05_at_19.10.26.png)
+![screenshot_04](../screenshot_04.webp)
 
 Also, you will see the selected interpreted version on the right side of the Status Bar.
 
-![Screenshot 2024-11-05 at 19.28.58.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f9700ee2-6d01-41ea-b9eb-0022c43ac751/082f6876-322f-4107-9af5-d039d730414e/Screenshot_2024-11-05_at_19.28.58.png)
+![screenshot_05](../screenshot_05.webp)
 
 ---
 
