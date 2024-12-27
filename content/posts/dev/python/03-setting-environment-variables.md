@@ -9,7 +9,7 @@ When building apps that connect to third-party services, you often need API keys
 
 In this post, I’ll guide you through setting environment variables on macOS for secure storage. We’ll cover `zsh` (the default shell for macOS Catalina and later) and `bash` (used in older macOS versions), so you can store API keys and other private data securely.
 
-### Setting Environment Variables in `zsh` (macOS Catalina and Later)
+### Setting Environment Variables in `zsh` (macOS Catalina and Later)
 
 Starting with macOS Catalina, `zsh` is the default shell. Here’s how to set an environment variable in `zsh`:
 
