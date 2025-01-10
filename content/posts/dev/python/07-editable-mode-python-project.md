@@ -87,3 +87,5 @@ Editable mode is helpful locally, but for production, it’s best to make sure e
 ---
 
 With these steps, installing your Python project in editable mode should be straightforward, reducing import hassles and keeping everything organized. It’s a quick setup that makes your development process smoother!
+
+{{< buymeacoffee-widget >}}

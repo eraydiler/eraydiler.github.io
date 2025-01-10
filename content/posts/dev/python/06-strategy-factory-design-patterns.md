@@ -139,3 +139,5 @@ This setup means we can easily switch brokers by just changing the value of `br
 The **Strategy Pattern** helped us isolate broker-specific logic, making it interchangeable. The **Factory Pattern** gives us flexibility in selecting which broker to use at runtime. By combining these patterns, our app becomes easy to maintain and extend, allowing us to add new brokers (like Interactive Brokers or others) without changing the core app logic.
 
 These design patterns make the app scalable, flexible, and maintainable—ideal for adding new brokers and growing the trading platform.
+
+{{< buymeacoffee-widget >}}

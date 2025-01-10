@@ -135,3 +135,5 @@ As you can see, the request is sent via the `self.trading_client.submit_order(o
 I firmly believe that writing tests is crucial for software development, especially from a developer’s perspective. Tests not only serve as documentation but also empower developers to make changes confidently without fear of breaking things. By adding tests to my first real-life Python project, I gained valuable insights into the process and took proactive steps to ensure the project's health and stability.
 
 I encourage you to take the time to implement testing in your projects. It will pay off in the long run by helping you catch issues early and maintain a high-quality codebase.
+
+{{< buymeacoffee-widget >}}

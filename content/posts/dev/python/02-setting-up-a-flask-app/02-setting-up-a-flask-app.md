@@ -188,3 +188,5 @@ pip install -r requirements.txt
 Setting up a Flask app with a virtual environment is a straightforward process that ensures your project remains clean and manageable. By following these steps, you can easily create isolated environments for your Flask projects, helping you avoid conflicts and manage dependencies efficiently.
 
 Now that you have a basic Flask app running, you're ready to start building more complex applications. Happy coding!
+
+{{< buymeacoffee-widget >}}

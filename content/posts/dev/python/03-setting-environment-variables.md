@@ -94,3 +94,5 @@ If you’re deploying your app with a backend service, you’ll need to set envi
 ### Conclusion
 
 Using environment variables to store sensitive information, like API keys, is a simple and effective way to boost security. Whether you’re using `zsh` or `bash`, following these steps will help you keep credentials safe and your code clean. Remember, always avoid hardcoding sensitive data—use environment variables instead.
+
+{{< buymeacoffee-widget >}}

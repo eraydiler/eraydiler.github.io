@@ -125,3 +125,5 @@ If you’re facing similar import issues on Vercel, try using `vercel dev` to 
 ---
 
 This was a challenging but rewarding journey, and I hope this post helps others who encounter the same problem!
+
+{{< buymeacoffee-widget >}}

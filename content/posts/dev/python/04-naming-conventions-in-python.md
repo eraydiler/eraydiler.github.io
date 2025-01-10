@@ -123,3 +123,5 @@ Consistent naming conventions improve your code’s readability and make it more
 Python’s naming conventions are essential for clean, readable, and maintainable code. By following conventions for classes, functions, variables, modules, and constants, you ensure your code fits Python’s philosophy of simplicity and readability.
 
 As you work with Python, keep these conventions in mind. They’re not just rules—they’re tools to help you write better code. Whether it’s a small script or a large app, consistent naming makes Python code more professional and manageable.
+
+{{< buymeacoffee-widget >}}
