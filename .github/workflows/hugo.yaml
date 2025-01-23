@@ -33,6 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.119.0
+      GOOGLEANALYTICS_ID: ${{ secrets.GOOGLEANALYTICS_ID }}
     steps:
       - name: Install Hugo CLI
         run: |
@@ -55,6 +56,7 @@ jobs:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
+          GOOGLEANALYTICS_ID: ${{ secrets.GOOGLEANALYTICS_ID }}
         run: |
           hugo \
             --gc \
