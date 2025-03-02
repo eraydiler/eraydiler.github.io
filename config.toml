@@ -51,6 +51,10 @@ defaultContentLanguage = "en"
     name       = "posts"
     url        = "/posts"
 
+[services]
+  [services.googleAnalytics]
+    id = "GOOGLEANALYTICS_ID"
+
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Addon: Social icons
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
