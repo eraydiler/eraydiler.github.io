@@ -84,7 +84,7 @@ defaultContentLanguage = "en"
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.footer]
-    trademark = 2024
+    trademark = 2025
     rss = true
     copyright = true
 #    author = true
