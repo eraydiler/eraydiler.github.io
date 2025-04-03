@@ -51,6 +51,12 @@ defaultContentLanguage = "en"
     name       = "posts"
     url        = "/posts"
 
+[[menu.main]]
+  identifier = "projects"
+  name       = "projects"
+  url        = "/portfolio/projects"
+
+
 [services]
   [services.googleAnalytics]
     id = "GOOGLEANALYTICS_ID"
