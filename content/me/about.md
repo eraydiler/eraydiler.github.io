@@ -4,13 +4,13 @@ date = 2024-11-04T10:07:00+03:00
 draft = false
 +++
 
-I am a passionate software engineer with a strong background in Computer Science and Engineering. My journey began with a focus on iOS development, where I honed my skills in building robust and user-friendly applications. Over the years, I have expanded my expertise to include various technologies and platforms, including Python, Flask, and SwiftUI.
+I am a passionate software engineer with a strong background in iOS development. I aim to motivate myself and help others by sharing my technical experiences through this blog.
 
 ## Experience
-I have worked on numerous projects across different domains, from developing mobile applications to creating server-side solutions. My professional experience includes roles at Figensoft, BTdays, and Hipo, where I contributed to the development of innovative software solutions and collaborated with talented teams.
+I have worked on numerous projects across various domains, ranging from developing mobile applications to creating server-side solutions. I have contributed to the development of innovative startup projects and collaborated with talented teams.
 
 ## Motivations
-My motivation lies in continuous learning and creating impactful software. I am driven by the desire to solve complex problems and bring ideas to life through code. In the future, I aim to leverage my skills in iOS development, Python, and SwiftUI to build applications that make a difference. Additionally, I am passionate about algo-trading and music production, and I look forward to exploring these areas further.
+My motivation lies in continuous learning and creating helpful applications. I am driven by the desire to solve complex problems and bring ideas to life through code. Additionally, I am passionate about algorithmic trading and music production, and I look forward to exploring these areas further.
 
 ## Interests
 - Developing real-world solutions with mobile apps
