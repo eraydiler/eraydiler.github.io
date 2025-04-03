@@ -38,7 +38,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
 defaultContentLanguage = "en"
 
 [params.logo]
-  logoText = "git checkout main"
+  logoText = "~/"
   logoHomeLink = "/"
 
 [[menu.main]]
