@@ -13,7 +13,7 @@ My motivation lies in continuous learning and creating helpful applications. I a
 ## Interests
 - Developing real-world solutions with mobile apps
 - Algo trading (I enjoy coding trading strategies)
-- Guitar Playing / Music Composition / Recording
+- Guitar Playing / Music Production
 
 ## Contact
 Feel free to reach out to me through any of the platforms listed [here](/) or via [email](mailto:eray.diler@gmail.com). Let's connect and create something amazing together!
