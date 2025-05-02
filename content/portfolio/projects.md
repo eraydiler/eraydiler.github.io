@@ -10,7 +10,7 @@ An interactive companion app for printed Bible readers.
 - Camera integration for physical page recognition
 - Content delivery including videos, maps, and notes
 - Led development from v1.0 through v2.6.1
-- **Technologies:** Swift, AVFoundation, Vision, CoreML
+- **Technologies:** Swift, SwiftOCR, Firebase, CoreData
 
 ### Paird
 A dating app with advanced multimedia capabilities.
@@ -106,7 +106,7 @@ match with the designs.
 - 3D environment scanning app
 - LIDAR integration
 - 3D model generation
-- **Technologies:** Swift, ARKit, SceneKit, LiDAR API
+- **Technologies:** Swift, ARKit, SceneKit
 
 ## Personal Projects
 
@@ -124,9 +124,9 @@ match with the designs.
    - **Technologies:** Python, Flask, REST APIs, MongoDB
 
 3. TaxCalculator
-   - Supports Turkish tax systems
    - Parsing complex csv files with dynamic sections
    - Error handling
+   - Support for complicated Turkish tax system
    - Unit testing for generated reports
    - **Technologies:** Python, Flask, REST APIs, MongoDB
 
@@ -141,7 +141,7 @@ match with the designs.
 - Built with Swift
 - Local storage with Core Data
 - Keychain integration for master password
-- **Technologies:** Swift, Core Data, Security Framework
+- **Technologies:** Swift, Core Data, Keychain
 
 ## Early Career Projects
 

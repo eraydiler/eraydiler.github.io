@@ -16,4 +16,4 @@ My motivation lies in continuous learning and creating helpful applications. I a
 - Guitar Playing / Music Production
 
 ## Contact
-Feel free to reach out to me through any of the platforms listed [here](/) or via [email](mailto:eray.diler@gmail.com). Let's connect and create something amazing together!
+Feel free to reach out to me through any of the platforms [listed](/). Let's connect and create something amazing together!
