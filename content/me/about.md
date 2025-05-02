@@ -15,5 +15,9 @@ My motivation lies in continuous learning and creating helpful applications. I a
 - Algo trading (I enjoy coding trading strategies)
 - Guitar Playing / Music Production
 
+## Creative Work
+- [Music Recordings](https://soundcloud.com/eraydiler) - Some of my musical ideas and  recordings
+- [GitHub Projects](https://github.com/eraydiler) - Personal coding projects
+
 ## Contact
 Feel free to reach out to me through any of the platforms [listed](/). Let's connect and create something amazing together!
