@@ -83,8 +83,8 @@ defaultContentLanguage = "en"
     url  = "https://www.linkedin.com/in/eray-diler/"
 
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/eray_diler"
+    name = "bluesky"
+    url  = "https://bsky.app/profile/eraydiler.bsky.social"
 
   # Custom footer
   # If you want, you can easily override the default footer with your own content.
