@@ -141,3 +141,5 @@ Have you tried Clean Architecture in your projects? What challenges did you face
 ## Conclusion
 
 Here’s a small but robust and scalable app that is open to adding new parsers, brokers, and supporting completely different formats, etc. I hope I’ve shed some light on the topic.
+
+{{< adsense >}}
