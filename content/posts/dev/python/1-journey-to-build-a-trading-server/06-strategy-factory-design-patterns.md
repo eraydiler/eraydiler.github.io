@@ -134,6 +134,8 @@ This setup means we can easily switch brokers by just changing the value of `br
 
 ---
 
+{{< adsense >}}
+
 ### **Conclusion**
 
 The **Strategy Pattern** helped us isolate broker-specific logic, making it interchangeable. The **Factory Pattern** gives us flexibility in selecting which broker to use at runtime. By combining these patterns, our app becomes easy to maintain and extend, allowing us to add new brokers (like Interactive Brokers or others) without changing the core app logic.
