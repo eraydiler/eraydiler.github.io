@@ -62,7 +62,7 @@ class TestAlpacaApi(unittest.TestCase):
     def setUp(self, mock_trading_client):
         # Create a mock instance of the TradingClient
         self.mock_trading_client = mock_trading_client.return_value
-        
+
         # Instantiate the AlpacaApi class for testing
         self.api = AlpacaApi()
 
@@ -95,7 +95,7 @@ Here’s how the `create_order` method is implemented in the `AlpacaApi` cla
 ```python
 class AlpacaApi:
   """
-  Alpaca API integration for trading actions like fetching account details, 
+  Alpaca API integration for trading actions like fetching account details,
   placing orders, and managing positions.
   """
 
@@ -104,14 +104,14 @@ class AlpacaApi:
 	def create_order(self, symbol: str, side: str, qty: float):
 	    """
 	    Creates a market order for the given symbol.
-	    
+
 	    :param symbol: The stock ticker symbol (e.g., 'AAPL').
 	    :param side: The order side ('BUY' or 'SELL').
 	    :param qty: The quantity to trade.
 	    :raises ValueError: If the side is not 'BUY' or 'SELL'.
 	    """
 	    order_side = self._map_order_side(side)
-	
+
 	    # Preparing the market order request
 	    try:
 	        data = MarketOrderRequest(
@@ -120,7 +120,7 @@ class AlpacaApi:
 	            side=order_side,
 	            time_in_force=TimeInForce.DAY
 	        )
-	
+
 	        # Submitting the market order
 	        order = self.trading_client.submit_order(order_data=data)
 	        return APISuccess(f"Order for {qty} {symbol} shares placed successfully.", details={"status": order.status})
@@ -129,6 +129,8 @@ class AlpacaApi:
 ```
 
 As you can see, the request is sent via the `self.trading_client.submit_order(order_data=data)` line. In the test code, this exact line is mocked.
+
+{{< adsense >}}
 
 ## Conclusion
 

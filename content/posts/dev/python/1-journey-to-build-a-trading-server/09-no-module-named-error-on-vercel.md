@@ -118,6 +118,8 @@ After restructuring my project, I added a `setup.py` file to turn my code into
 
 ---
 
+{{< adsense >}}
+
 ### Conclusion
 
 If you’re facing similar import issues on Vercel, try using `vercel dev` to debug locally and consider setting the `PYTHONPATH` in your `vercel.json`. This small change saved me hours of frustration and allowed my project to run smoothly both locally and on Vercel.

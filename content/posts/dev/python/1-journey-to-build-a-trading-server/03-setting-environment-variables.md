@@ -91,6 +91,8 @@ printenv BINGX_API_KEY
 
 If you’re deploying your app with a backend service, you’ll need to set environment variables there as well. For example, I use `vercel` for my Flask app. You can find detailed instructions on setting environment variables for Vercel in their [documentation](https://vercel.com/docs/projects/environment-variables).
 
+{{< adsense >}}
+
 ### Conclusion
 
 Using environment variables to store sensitive information, like API keys, is a simple and effective way to boost security. Whether you’re using `zsh` or `bash`, following these steps will help you keep credentials safe and your code clean. Remember, always avoid hardcoding sensitive data—use environment variables instead.
