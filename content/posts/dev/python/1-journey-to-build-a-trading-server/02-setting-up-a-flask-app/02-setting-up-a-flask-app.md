@@ -54,7 +54,7 @@ Select Venv,
 
 ![screenshot_02](../screenshot_02.webp)
 
-And you will be presented a list of interpreters that can be used as a base for the new virtual environment. 
+And you will be presented a list of interpreters that can be used as a base for the new virtual environment.
 
 ![screenshot_03](../screenshot_03.webp)
 
@@ -63,34 +63,34 @@ And you will be presented a list of interpreters that can be used as a base for 
 To create a virtual environment inside your project directory, run the following command:
 
 - **On Windows:**
-    
+
     ```bash
     python -m venv .venv
     ```
-    
+
 - **On macOS/Linux:**
-    
+
     ```bash
     python3 -m venv .venv
     ```
-    
+
 
 This command creates a new directory named `venv` inside your project directory, which will contain the virtual environment.
 
 To start using your virtual environment, you need to activate it. The activation command differs depending on your operating system:
 
 - **On Windows:**
-    
+
     ```bash
     .venv\Scripts\activate
     ```
-    
+
 - **On macOS/Linux:**
-    
+
     ```bash
     source .venv/bin/activate
     ```
-    
+
 
 Once activated, you'll notice that your terminal prompt is prefixed with `(venv)`, indicating that your virtual environment is active.
 
@@ -182,6 +182,8 @@ pip install -r requirements.txt
 ```
 
 ---
+
+{{< adsense >}}
 
 ### Conclusion
 

@@ -116,9 +116,9 @@ After restructuring my project, I added a `setup.py` file to turn my code into
 3. **`setup.py` Ensures Portability:** Adding a `setup.py` file allows you to package your project properly and run it consistently both locally and on deployment platforms.
 4. **Platform-Specific Configurations Matter:** What works on your local machine might not work in the cloud. Be mindful of the subtle differences between environments, especially around imports and paths.
 
----
-
 {{< adsense >}}
+
+---
 
 ### Conclusion
 
