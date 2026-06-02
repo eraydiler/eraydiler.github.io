@@ -110,7 +110,23 @@ match with the designs.
 
 ## Personal Projects
 
-### Trading Projects
+### Apify Actors
+1. **[Yahoo Finance Historical Data Scraper](https://apify.com/eraydiler/yahoo-finance-historical-data-scraper)**
+   - Get detailed historical price and volume data from Yahoo Finance for multiple stocks and custom year ranges
+
+2. **[TEFAS Funds Historical Price Scraper](https://apify.com/eraydiler/tefas-fund-scanner)**
+   - Scans TEFAS for historical or latest fund prices
+
+3. **[Crypto Pairs Mean Reversion Scanner](https://apify.com/eraydiler/mean-reversion-pairs-scanner)**
+   - Identify statistical arbitrage opportunities in synthetic crypto pairs using mean reversion signals
+
+4. **[Crypto Pairs Correlation Scanner](https://apify.com/eraydiler/crypto-correlation-scanner)**
+   - Find which cryptocurrencies move together to support pair trading, hedging, and diversification
+
+5. **[Crypto Pairs Oversold Scanner](https://apify.com/eraydiler/crypto-oversold-scanner)**
+   - Scan Binance to find oversold crypto pairs (by RSI) across 1400+ pairs with smart routing
+
+### Fintech
 1. **[Multi-Symbol Market Screener](https://www.tradingview.com/script/5FVLVyir-Overbought-Oversold-Screener/)**
    - Published on TradingView platform
    - RSI and Stochastic indicators integration
