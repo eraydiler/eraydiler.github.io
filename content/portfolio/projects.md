@@ -1,6 +1,6 @@
 # Projects
 
-## At Hipo
+## [At Hipo](https://www.hipolabs.com/)
 
 ### [Filament Bible](https://www.tyndale.com/sites/filamentbible/)
 An interactive companion app for printed Bible readers.
