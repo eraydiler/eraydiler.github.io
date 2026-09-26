@@ -59,7 +59,7 @@ defaultContentLanguage = "en"
 
 [services]
   [services.googleAnalytics]
-    id = "GOOGLEANALYTICS_ID"
+    id = "G-3RYJFZCN2B"
 
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Addon: Social icons
