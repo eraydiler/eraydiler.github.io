@@ -86,6 +86,11 @@ defaultContentLanguage = "en"
     name = "bluesky"
     url  = "https://bsky.app/profile/eraydiler.bsky.social"
 
+  [[params.social]]
+    name = "soundcloud"
+    url  = "https://soundcloud.com/eraydiler"
+
+
   # Custom footer
   # If you want, you can easily override the default footer with your own content.
   #
